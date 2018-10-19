@@ -3,7 +3,7 @@
 Andrea García Bravo
 19/10/2018
 
-url: https://github.com/Andrea-Miin/ExamenAD
+url: https://github.com/Andrea-Miin/ExamenDatos
 
 ## 1.
 IEnumerable representa una colección que puede enumerarse, es decir, algo que puede recorrerse independientemente de cómo sea su estructura.  
